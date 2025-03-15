@@ -1,11 +1,12 @@
 #include <iostream>
 
 void func() {
-	std::cout << "New functional\n";
+	std::cout << "smth\n";
 }
 int main() {
 
 	func();
-	std::cout << "52";
+
+	std::cout << "also new";
 	return 0;
 }
